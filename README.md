@@ -3,7 +3,8 @@
 - pandas
 - matplotlib
 ## Components
-Cosine Similarity
+
+### Cosine Similarity
 cosine_similarity from sklearn.metrics.pairwise is used to compare the similarity between the poems.
 
 ### Count Vectorizer
