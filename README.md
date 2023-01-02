@@ -1,18 +1,18 @@
 ## Dependencies
-sklearn
-pandas
-matplotlib
+- sklearn
+- pandas
+- matplotlib
 ## Components
 Cosine Similarity
 cosine_similarity from sklearn.metrics.pairwise is used to compare the similarity between the poems.
 
-## Count Vectorizer
+### Count Vectorizer
 CountVectorizer from sklearn.feature_extraction.text is used to convert the poems into numerical vectors for comparison using cosine similarity.
 
-## DataFrame
+### DataFrame
 pandas.DataFrame is used to store the poems and their similarities in a tabular format.
 
-## Matplotlib
+### Matplotlib
 matplotlib.pyplot and matplotlib.colors are used to generate a plot to visualize the similarities between the poems.
 
 ## Usage
