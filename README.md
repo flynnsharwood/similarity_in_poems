@@ -1,3 +1,5 @@
+A simple code to find similarity between two pieces of text, in this case, poems.
+
 ## Dependencies
 - sklearn
 - pandas
